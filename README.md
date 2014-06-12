@@ -1,5 +1,5 @@
- android_device_ZTE_V967S
+ android_device_7296
 
-ZTE V967S device folder
+CoolPad 7296 device folder
 
 For creating CWM recovery.
